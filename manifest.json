@@ -1,0 +1,38 @@
+{
+  "name": "Roman Personal Training",
+  "short_name": "RPT",
+  "description": "Personal gym rest timer & workout tracker",
+  "start_url": "/roman-personal-training-/index.html",
+  "scope": "/roman-personal-training-/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ro",
+  "icons": [
+    {
+      "src": "/roman-personal-training-/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/roman-personal-training-/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/roman-personal-training-/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/roman-personal-training-/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
